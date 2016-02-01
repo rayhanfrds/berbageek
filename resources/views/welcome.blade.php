@@ -6,7 +6,7 @@
         <link rel="shortcut icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
         <link rel="icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
 
-        <link rel="stylesheet" href="{{ asset('css/aleo-webfont.min.css') }}">
+        <link rel="stylesheet" href="{{ asset('css/aleo-webfont.css') }}">
         <link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
         <style>
             html, body {
