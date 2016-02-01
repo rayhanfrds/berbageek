@@ -81,18 +81,6 @@
                     <h1 class="title"><strong>Sharing</strong> is natural calling.</h1>
                     <h3 class="subtitle">The day you stop <strong>sharing</strong>, you are dying.</h3>
                 </div>
-
-                <p class="message">
-                    Seorang superhero itu, tidak harus memiliki kekuatan super.
-                    <br>Seorang superhero itu, bukan berarti harus menyelamatkan nyawa ratusan orang.
-
-                    <br>Ketika kita <strong>berbagi</strong> apa yang kita punya, apa yang kita anggap biasa-biasa saja, bisa jadi saat itulah kita telah menjadi superhero bagi orang lain.
-                </p>
-
-                <p>
-                    Berbageek adalah tempat untuk tanya jawab, saling berbagi, dan saling mengapresiasi.
-                    <br><strong>Berbageek, berbagi ala geek.</strong>
-                </p>
             </div>
         </div>
     </body>
